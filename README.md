@@ -1,4 +1,4 @@
-# BIS Assignment – Marketing Campaign Analytics
+# BIS Assignment 
 
 ## Project Overview
 
