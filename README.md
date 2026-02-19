@@ -57,9 +57,3 @@ The analysis follows a structured data science process, including:
 
 ### Campaign Response
 - Acceptance indicators for 5 marketing campaigns  
-
----
-
-## Project Outcome
-
-The analysis identifies high-value customer segments, examines the relationship between income and spending behaviour, and evaluates campaign effectiveness to support data-driven marketing decisions.
